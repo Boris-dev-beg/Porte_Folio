@@ -1,0 +1,24 @@
+{
+  "name": "porte_folio",
+  "version": "1.0.0",
+  "description": "mon porte folio",
+  "keywords": [
+    "WMB"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "license": "ISC",
+  "author": "WETENEYI MANGWA Boris",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "aos": "^2.3.4",
+    "tailwindcss": "^4.3.0"
+  }
+}

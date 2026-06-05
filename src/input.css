@@ -1,0 +1,21 @@
+@import "tailwindcss" ;
+
+
+body{
+    @apply font-[bahnschrift]
+}
+header img{
+    @apply size-7
+}
+
+.skill-container {
+    @apply flex items-center justify-between gap-2 w-full pt-2
+}
+
+.skill-container img{
+    @apply size-10
+}
+
+section{
+    @apply border-b border-gray-500
+}
